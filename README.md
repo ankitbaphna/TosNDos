@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/UezE9sf.gifv' title='Sample todo app for bootcamp submission' width='' alt='Video Walkthrough' />
 
 Recorded video using Android Studio and then converted that in gif using ezgif.com
 
