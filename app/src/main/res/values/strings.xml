@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tos N Dos</string>
+    <string name="action_settings">Settings</string>
+    <string name="due_date_and_time">Due Date and Time</string>
+    <string name="action_discard">Discard</string>
+    <string name="save">Save</string>
+</resources>

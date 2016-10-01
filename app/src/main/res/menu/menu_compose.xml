@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="todo.bootcamp.com.tosndos.activity.ToDoActivity">
+
+    <item
+        android:id="@+id/action_discard"
+        android:orderInCategory="100"
+        android:title="@string/action_discard"
+        android:icon="@drawable/ic_delete_24dp"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_save"
+        android:orderInCategory="101"
+        android:title="@string/save"
+        android:icon="@drawable/ic_save_24dp"
+        app:showAsAction="always"/>
+
+</menu>
